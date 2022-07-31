@@ -42,5 +42,12 @@ a {
   justify-items: center;
   text-align: center;
 }
-
+.favorites {
+  min-height: 80vh;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  text-align: center;
+}
 
