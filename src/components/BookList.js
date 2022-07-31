@@ -4,3 +4,24 @@ import { API_URL } from "../API";
 import axios from "axios";
 import { useAppContext } from "./context/appContext";
 import { useNavigate } from "react-router-dom";
+const BookList = () => {
+    const [books, setBooks] = useState([]);
+  
+    const { favorites, addToFavorites, removeFromFavorites } = useAppContext();
+  
+    const navigate = useNavigate();
+  
+    const favoritesChecker = (id) => {
+      const boolean = favorites.some((book) => book.id === id);
+      return boolean;
+    };
+    useEffect(() => {
+        axios
+          .get(API_URL)
+          .then((res) => {
+            console.log(res.data);
+            setBooks(res.data);
+          })
+          .catch((err) => console.log(err));
+      }, []);
+      
