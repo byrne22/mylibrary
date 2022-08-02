@@ -14,16 +14,18 @@
 
 **Description**
 
-This is an App that holds a collection of books with their details e.g author, price, name and a synopsis and also enables on to read the free books available
+This is an an online library catalogue with a collection of available books,that provides for the usr to views description and author and add the ones they liketo their favorites lists.
 
 Go Back to the top
 
 **Features**
 
-As a user of this programm you will be able to :
+This App allows the user to:
 
-Interact with a page that displays all the books in our data base.
-Interact with a comment page that displys all comments by the users.
+View the books collections in the library catalogue:
+Check the Author and read a brief description of what the boom is about
+Add and remove the books from a favorites list
+
 
 
 **Requirement**
