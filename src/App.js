@@ -6,6 +6,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Favorites from "./components/Favorites";
 
+
 function App() {
   return (
     <div className="App">
