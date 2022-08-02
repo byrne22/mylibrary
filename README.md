@@ -1,10 +1,15 @@
-****Table Of Content
+Table Of Content
 
 -Description 
--Features -Requirements 
+
+-Features -Requirements
+
 -Tecnology Used 
+
 -Github Link 
+
 -Walk Through Github Repo Link 
+
 -Licence -Author's Info
 
 **Description**
@@ -52,6 +57,7 @@ MIT License Copyright (c) [2019] [Byron Odhiambo] Permission is hereby granted, 
 Go Back to the top
 
 **Author's Info**
+
 Email - byron.odhiambo@student.moringaschool.com
 
 Go Back to the top
