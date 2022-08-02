@@ -19,7 +19,7 @@
 
 **Description**
 
-This is an an online library catalogue with a collection of available books,that provides for the usr to views description and author and add the ones they like to their favorites lists.
+This is an an online library catalogue with a collection of available books,that provides for the user to views description and author and add the ones they like to their favorites lists.
 
 Go Back to the top
 
