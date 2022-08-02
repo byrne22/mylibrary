@@ -1,4 +1,4 @@
-#Table Of Content
+.Table Of Content
 ####-Description -Features -Requirements -Tecnology Used -Github Link -Walk Through Github Repo Link -Licence -Author's Info
 
 ##Description
