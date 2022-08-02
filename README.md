@@ -22,8 +22,10 @@ Go Back to the top
 
 This App allows the user to:
 
-View the books collections in the library catalogue:
+View the books collections in the library catalogue
+
 Check the Author and read a brief description of what the boom is about
+
 Add and remove the books from a favorites list
 
 
