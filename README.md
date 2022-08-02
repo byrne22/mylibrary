@@ -1,4 +1,5 @@
-*MY LIBRARY PROJECT*
+**MY LIBRARY PROJECT**
+
 
 **By Byron Odhiambo**
 
@@ -66,7 +67,7 @@ https://62e97922e7f6bd51bfa9e3dd--stupendous-valkyrie-710420.netlify.app/
 
 **Videolink**
 
-To to check the peoject overview video goo tothe foloowing link:
+To to check the project overview video goo tothe foloowing link:
 
 https://drive.google.com/file/d/14gc0fk_1jYQ7DgOWwVHw7a_xIuexcR5L/view?usp=sharing
 
