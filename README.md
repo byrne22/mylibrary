@@ -1,3 +1,7 @@
+*MY LIBRARY PROJECT*
+
+**By Byron Odhiambo**
+
 **Table Of Content**
 
 -Description 
@@ -14,7 +18,7 @@
 
 **Description**
 
-This is an an online library catalogue with a collection of available books,that provides for the usr to views description and author and add the ones they liketo their favorites lists.
+This is an an online library catalogue with a collection of available books,that provides for the usr to views description and author and add the ones they like to their favorites lists.
 
 Go Back to the top
 
@@ -48,10 +52,24 @@ React-js
 
 [Go Back to the top](#mylibrary)
 
-Github Link
+**Github Link**
+
 -Click this link to view the github repository
 
 https://github.com/byrne22/mylibrary
+
+**Depoyed live link**
+
+To view th webpage go to the following link:
+
+https://62e97922e7f6bd51bfa9e3dd--stupendous-valkyrie-710420.netlify.app/
+
+**Videolink**
+
+To to check the peoject overview video goo tothe foloowing link:
+
+https://drive.google.com/file/d/14gc0fk_1jYQ7DgOWwVHw7a_xIuexcR5L/view?usp=sharing
+
 
 
 **LIcence**
